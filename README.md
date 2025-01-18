@@ -1,6 +1,6 @@
-# BULLRCS
+# BULLSRC
 
-Este repositório contém o BullRCS, uma plataforma desenvolvida para ajudar os utilizadores a estudar e analisar o mercado de criptomoedas.
+Este repositório contém o BULLSCR, uma plataforma desenvolvida para ajudar os utilizadores a estudar e analisar o mercado de criptomoedas.
 
 ## Funcionalidades da plataforma
 
