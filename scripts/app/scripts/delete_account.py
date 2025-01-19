@@ -15,7 +15,7 @@ def delete_account(email_entry, password_entry, confirm_password_entry):
         "ConfirmPassword": confirm_password
     }
 
-    response = requests.delete("http://localhost:5050/delete-account", data=data)
+    response = requests.delete("http://ec2-13-49-238-246.eu-north-1.compute.amazonaws.com:5050/delete-account", data=data)
 
     
     return response.status_code
