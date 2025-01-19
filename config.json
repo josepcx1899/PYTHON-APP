@@ -1,0 +1,13 @@
+{
+    "obf-code": 2,
+    "obf-mod": 1,
+    "obf-const": 1,
+    "encrypt": true,
+    "runtime": true,
+    "obf-str": true,
+    "obf-names": true,
+    "mix-str": true,
+    "assert-call": true,
+    "assert-import": true,
+    "enable": ["jit", "bcc", "rft"]
+}
