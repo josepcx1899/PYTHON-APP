@@ -37,3 +37,12 @@ A plataforma faz uso das seguintes APIs externas:
    pip install -r requirements.txt
    python main.py
    ```
+
+(OPCIONAL)
+1. Pyarmor
+   ```bash
+   pip install pyarmor
+   pyarmor gen .
+   ```
+
+
