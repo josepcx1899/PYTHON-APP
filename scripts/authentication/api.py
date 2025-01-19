@@ -1,6 +1,6 @@
 import requests
 
-url = "http://localhost:5050/"
+url = "http://ec2-13-49-238-246.eu-north-1.compute.amazonaws.com:5050/"
 
 def login_api(email, password):
     data = {
